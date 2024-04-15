@@ -1,6 +1,6 @@
 {
-  "name": "List_and_Dictionaries",
-  "projectId": "1bae099d-abbc-4776-aa8b-32ede39a0fcd",
+  "name": "WorkingWithListAndDictionaries",
+  "projectId": "e54d4010-8d64-4284-9f52-e143c0541539",
   "description": "Blank Process",
   "main": "Main.xaml",
   "dependencies": {
@@ -50,7 +50,7 @@
   "entryPoints": [
     {
       "filePath": "Main.xaml",
-      "uniqueId": "8fdd2289-9c59-4dd3-a3dc-a5c5c5b59757",
+      "uniqueId": "525691bf-f581-41f5-bf08-cf43870081a0",
       "input": [],
       "output": []
     }
